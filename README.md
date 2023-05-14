@@ -24,6 +24,7 @@ Languages i work with
 ![](https://img.icons8.com/fluency/48/c-programming.png) 
 ![](https://img.icons8.com/color/48/python--v1.png)
 ![](https://img.icons8.com/fluency/48/matlab.png)
+![](https://img.icons8.com/external-flat-juicy-fish/60/external-sql-coding-and-development-flat-flat-juicy-fish.png)
 
 
 
