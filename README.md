@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **B-zieba/B-zieba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ICT student at AGH University.
+My main interests are wireless communications and DSP. I'm also learning electronics 😉. <br/>
+
+Languages i work with
+-----
+
+![](https://img.icons8.com/color/48/c-plus-plus-logo.png)
+![](https://img.icons8.com/fluency/48/c-programming.png) 
+![](https://img.icons8.com/color/48/python--v1.png)
+![](https://img.icons8.com/fluency/48/matlab.png)
+
+
+
+
