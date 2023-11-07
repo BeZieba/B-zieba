@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-ICT student at AGH University.
-My main interests are wireless communications and DSP. I'm also learning electronics 😉. <br/>
+ICT student at AGH University.<br/>
 
 Languages i work with
 -----
